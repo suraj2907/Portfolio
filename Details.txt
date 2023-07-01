@@ -1,0 +1,138 @@
+========== HEADER ==========
+.nav__logo
+Suraj
+
+========== HOME ==========
+.home__name
+HELLO, I’M <br>
+SURAJ JAWRANI
+
+.home__profession
+FRONTEND <br>
+DEVELOPER
+
+
+========== ABOUT ==========
+.section__title
+PERSONAL INFO
+
+Welcome to my profile! I am an ambitious graduate student 
+with a strong foundation in HTML, CSS, JavaScript, and Java.
+Throughout my B-Tech program from 2016 to 2020, I gained a
+solid understanding of web development and software engineering
+principles. I thrive in dynamic environments that encourage 
+creativity and collaboration. Currently, I am looking for
+opportunities to use my skills and support new businesses.
+Let's join together and explore how we can make an impact together!"
+
+.about__button
+Download CV
+
+.about__social
+GitHub - Twitter - Linkedin
+
+https://github.com/suraj2907
+https://twitter.com/JawraniSuraj
+https://www.linkedin.com/in/suraj-jawrani/
+========== SKILLS ==========
+.section__title
+SKILLS
+
+.resume__title
+HTML & CSS
+JavaScript
+React
+Java
+
+
+Tailwind
+
+
+========== EDUCATION ==========
+.section__title
+EDUCATION
+
+.resume__title .resume__data
+Coputer Science And Engineering
+CSVTU
+2016-2020
+View
+
+Higher Secondary Education
+JLM Gayatri Vidya Peeth
+2015-2016
+View
+
+Secondary Education
+JLM Gayatri Vidya Peeth
+2013-2014
+View
+
+
+========== WORK ==========
+.section__title
+WORK EXPERIENCE
+
+.resume__title .resume__data
+Web Developer Director
+Adobe - Spain / 2012 - 2017
+I worked in the company providing experience 
+in the labor field and doing quality work.
+
+Design Manager
+Figma - Perú / 2020 - 2022
+I worked in the company providing experience 
+in the labor field and doing quality work.
+
+Software Engineer
+Adobe - Spain / 2012 - 2017
+I worked in the company providing experience 
+in the labor field and doing quality work.
+
+
+========== CERTIFICATES ==========
+.section__title
+CERTIFICATES
+
+.resume__title .resume__data
+Modern Web Development
+Master Web Inc -  2015
+View
+
+Component Design
+Design & Company -  2020
+View
+
+Layout Of Structural Websites
+University of Peru -  2022
+View
+
+
+========== REFERENCES ==========
+.section__title
+REFERENCES
+
+.resume__title .resume__data
+Ris Allison
+CEO Industria Inc
+user@email.com / 987-654-3210
+
+Edyson Harris
+CEO Industria Inc
+user@email.com / 987-654-3210
+
+Anne Lort
+CEO Industria Inc
+user@email.com / 987-654-3210
+
+
+========== FOOTER ==========
+.footer__title .footer__info
+PHONE
+(0+) 987-654-321
+
+EMAIL
+anne@email.com
+
+WEBSITE <a href="#">
+www.mywebsite.com
